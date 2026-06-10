@@ -2,7 +2,7 @@
 
 📌 Overview
 
-This repository contains all the projects completed during my Digital Bhem Web Development Internship. These projects demonstrate my skills in frontend development, responsive web design, JavaScript programming, React, and full-stack web application development.
+This repository contains all the projects completed during my DigitalBhem Web Development Internship. These projects demonstrate my skills in frontend development, responsive web design, JavaScript programming, React, and full-stack web application development.
 
 🛠️ Technologies Used
 
@@ -157,14 +157,14 @@ DigitalBhem Web Development Intern
 
 ⭐ Acknowledgement
 
-Special thanks to Digital Bheem for providing the opportunity to work on real-world web development projects and enhance my technical skills through hands-on learning.
+Special thanks to Digital Bhem for providing the opportunity to work on real-world web development projects and enhance my technical skills through hands-on learning.
 
 
 ---
 
 Repository Structure
 
-DigitalBheem-Internship-Projects
+DIGIBHEM
 │
 ├── Task-1-Calculator-App
 ├── Task-2-Registration-Form
